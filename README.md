@@ -32,5 +32,6 @@ VCM-Track/
 ```
 
 ---
-Ouput: <img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/1e6bc452-2d65-4d02-8686-19b37e83c378" />
+Ouputs:
+An example from the database, scraped from the internet, and visualied with the pipeline: <img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/1e6bc452-2d65-4d02-8686-19b37e83c378" />
 
