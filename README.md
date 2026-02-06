@@ -30,3 +30,7 @@ VCM-Track/
 ├── setup_env.sh        # Environment automation script
 └── requirements.txt    # Project dependencies
 ```
+
+---
+Ouput: <img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/1e6bc452-2d65-4d02-8686-19b37e83c378" />
+
